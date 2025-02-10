@@ -1,2 +1,2 @@
 # Assassin-Bunny
-Cyberpunk bunny assasin game
+Cyberpunk Bunny Assasin Game
